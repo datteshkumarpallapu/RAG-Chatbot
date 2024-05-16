@@ -18,5 +18,5 @@ This project is a basic implementation of a Retrieval-Augmented Generation (RAG)
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/yourusername/basic-rag-chatbot.git
-cd basic-rag-chatbot
+git clone (https://github.com/datteshkumarpallapu/RAG-Chatbot.git)
+cd Rag-Chatbot
